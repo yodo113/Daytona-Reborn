@@ -14,6 +14,13 @@ A work in progress from **Retro Upgrade Atelier**. The goal is to improve the pr
 
 Viewers pointed out that the Expert tower pops in and out, some colors look washed out, and the cloud spacing looks odd. They also asked for more control over steering sensitivity and response on a gamepad. These are useful test cases for the next previews. The videos show work in progress.
 
+## Suggestions
+
+Share an improvement you’d like to see, or propose a goal for the project with a way to test it. Feedback in English or French is welcome. GitHub posts submissions as public issues.
+
+- [Suggest an idea](https://github.com/yodo113/Daytona-Reborn/issues/new?template=idee.yml)
+- [Suggest a project requirement](https://github.com/yodo113/Daytona-Reborn/issues/new?template=cahier-des-charges.yml)
+
 [Retro Upgrade Atelier on YouTube](https://www.youtube.com/@RetroUpgradeAtelier)
 
 ---
@@ -25,3 +32,10 @@ Daytona USA Reborn est un projet de Retro Upgrade Atelier qui vise à améliorer
 **Téléchargement :** les vidéos montrent des versions de développement. Aucun exécutable public n’est disponible pour le moment. Si une version publique sort, son lien sera ajouté ici.
 
 Merci pour les retours sur la tour qui apparaît et disparaît, les couleurs délavées, l’espacement des nuages et la direction à la manette. Ils nous donnent des points précis à vérifier pour les prochaines démonstrations.
+
+### Boîte à idées
+
+Une idée pour Daytona, une priorité à revoir ou un critère à ajouter au cahier des charges ? Dépose ta proposition ici, en français ou en anglais. Les contributions sont publiques sur GitHub.
+
+- [Proposer une idée](https://github.com/yodo113/Daytona-Reborn/issues/new?template=idee.yml)
+- [Suggérer un objectif pour le cahier des charges](https://github.com/yodo113/Daytona-Reborn/issues/new?template=cahier-des-charges.yml)
