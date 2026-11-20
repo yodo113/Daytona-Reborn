@@ -1,0 +1,16 @@
+name: "Boîte à idées / Suggest an idea"
+description: "Propose une amélioration pour Daytona USA Reborn / Suggest an improvement."
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Ton idée / Your idea"
+      description: "Décris concrètement ce que tu aimerais voir dans le projet. / Describe what you’d like to see in the project."
+      placeholder: "Ex. Une courbe de direction réglable à la manette. / E.g. Adjustable steering response on a gamepad."
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: "Ce que ça changerait / What it would improve"
+      description: "Au besoin, indique le circuit, la vidéo ou le passage concerné. / Add the track, video, or timestamp if relevant."
