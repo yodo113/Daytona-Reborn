@@ -1,0 +1,27 @@
+name: "Cahier des charges / Suggest a requirement"
+description: "Propose un objectif, une priorité ou un critère de validation / Suggest a goal, priority, or acceptance criterion."
+body:
+  - type: textarea
+    id: requirement
+    attributes:
+      label: "Objectif proposé / Proposed requirement"
+      description: "Quel résultat le projet devrait-il viser ? / What should the project aim to achieve?"
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priorité proposée / Suggested priority"
+      options:
+        - "Indispensable / Essential"
+        - "Important / Important"
+        - "Souhaitable / Nice to have"
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: "Comment vérifier le résultat ? / How would we verify it?"
+      placeholder: "Ex. En 21:9, la tour reste visible au même endroit sur deux tours du circuit Expert. / E.g. In 21:9, the tower stays visible at the same point on two laps of the Expert circuit."
+    validations:
+      required: true
